@@ -1,0 +1,57 @@
+*
+{
+	background-color:  #222020;
+}
+.nav_flex_container
+{
+	background-color:black ;
+}
+.left_logo
+{
+	background-color: black;
+}
+.flex_items
+{
+	display: inline-flex;
+	list-style: none;
+	background-color: black;
+
+}
+.right_option1
+{
+	background-color: black;
+
+}
+.right_option2
+{
+	background-color: black;
+}
+.right_option3
+{
+	background-color: black;
+}
+.right_option4
+{
+	background-color: black;
+}
+.right_option5
+{
+	background-color: black;
+}
+.right_option6
+{
+	background-color: black;
+}
+.for_main_text
+{
+	color: white;
+	font-size: 25;
+}
+.for_discription
+{
+	color: white;
+}
+.button_for_discription
+{
+	
+}
