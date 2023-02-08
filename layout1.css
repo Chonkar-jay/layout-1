@@ -2,45 +2,63 @@
 {
 	background-color:  #222020;
 }
+.facebg
+{
+	display: inline-flex;
+	max-width: 30%;
+	max-height: 10%;
+	padding-left:760px ;
+}
 .nav_flex_container
 {
 	background-color:black ;
+	padding-top: 10px;
 }
 .left_logo
 {
 	background-color: black;
+	padding-left: 20px;
+	display: flex;
 }
 .flex_items
 {
-	display: inline-flex;
+	display:flex;
 	list-style: none;
 	background-color: black;
-
+	justify-content: flex-end;
+	justify-content: space-around;
+	text-decoration: none;
+	padding-left: 760px;
+	color: aliceblue;
 }
 .right_option1
 {
 	background-color: black;
-
 }
 .right_option2
 {
 	background-color: black;
+	padding-left: 15px;
 }
 .right_option3
 {
 	background-color: black;
+	padding-left: 15px;
 }
 .right_option4
 {
 	background-color: black;
+	padding-left: 15px;
 }
 .right_option5
 {
 	background-color: black;
+	padding-left: 15px;
 }
 .right_option6
 {
 	background-color: black;
+	padding-left: 15px;
 }
 .for_main_text
 {
